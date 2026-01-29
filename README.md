@@ -32,7 +32,7 @@ A completely offline AI assistant that works like ChatGPT but runs locally on yo
 
 1. Clone or download this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Shree-ranjan/Offline-AI-Assistant.git
 cd offline-ai-assistant
 ```
 
